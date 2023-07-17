@@ -4,14 +4,13 @@ This is a landing page based on the Multor template. It showcases a modern, visu
 
 ## Live Demo
 
-You can access the live demo of the Multor landing page [here](https://swqmy8-3000.csb.app/).
-Code sandbox link for the code [Codesandbox link](https://codesandbox.io/p/sandbox/sleepy-carson-swqmy8?file=%2Fpublic%2Findex.html%3A1%2C1)
+You can access the live demo of the Multor landing page 
 
 ## Video Demo
 
 You can watch the video demonstration of the Multor landing page by clicking the link below:
 
-**[CometLabs Assignment Landing Page Demo Video](https://share.vidyard.com/watch/JwcsUaj49fhyMZgz8KcPyq?)**
+**[CometLabs Assignment Landing Page Demo Video](
 
 Click the link to view the video.
 ## Description
@@ -39,7 +38,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RaghavaJagannatham/CometLabs
+   git clone
    ```
 
 2. Navigate to the project directory:
@@ -77,7 +76,7 @@ Here are some screenshots of the Multor landing page:
 
 ## Deployment
 
-The Multor landing page is deployed using codesandbox. You can access the live demo [here](https://swqmy8-3000.csb.app/).
+
 
 
 
